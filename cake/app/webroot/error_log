@@ -1,0 +1,62 @@
+[08-Dec-2012 03:58:43] PHP Parse error:  syntax error, unexpected $end in /home/ccsor4ao/public_html/app/controllers/contacts_controller.php on line 333
+[08-Dec-2012 03:59:29] PHP Parse error:  syntax error, unexpected $end in /home/ccsor4ao/public_html/app/controllers/contacts_controller.php on line 333
+[08-Dec-2012 03:59:36] PHP Parse error:  syntax error, unexpected $end in /home/ccsor4ao/public_html/app/controllers/contacts_controller.php on line 333
+[08-Dec-2012 03:59:43] PHP Parse error:  syntax error, unexpected $end in /home/ccsor4ao/public_html/app/controllers/contacts_controller.php on line 333
+[08-Dec-2012 04:01:23] PHP Parse error:  syntax error, unexpected $end in /home/ccsor4ao/public_html/app/controllers/contacts_controller.php on line 333
+[08-Dec-2012 04:01:28] PHP Parse error:  syntax error, unexpected $end in /home/ccsor4ao/public_html/app/controllers/contacts_controller.php on line 333
+[17-Mar-2014 08:07:39 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsor4ao/public_html/cake/libs/object.php on line 63
+[17-Mar-2014 08:07:39 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsor4ao/public_html/cake/bootstrap.php on line 47
+[10-Jun-2014 06:20:36 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsor4ao/public_html/cake/libs/object.php on line 63
+[10-Jun-2014 06:20:36 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsor4ao/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 03:59:51 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 03:59:51 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:04 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:04 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:07 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:07 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:14 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:14 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:18 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:18 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:43 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:43 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:44 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:44 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:44 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:44 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:44 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:44 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:00:52 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:00:52 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:02:32 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:02:32 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:02:38 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:02:38 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:02:44 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:02:44 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:02:54 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:02:54 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:03:37 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:03:37 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:03:37 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:03:37 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:03:41 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:03:41 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:03 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:03 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:05 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:05 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:06 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:07 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:07 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:04:36 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:04:36 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47
+[19-Jun-2016 04:19:34 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/ccsorrb4/public_html/cake/libs/object.php on line 63
+[19-Jun-2016 04:19:34 Etc/GMT] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/ccsorrb4/public_html/cake/bootstrap.php on line 47

@@ -1,0 +1,1 @@
+<section class="banner">        	<h1 class="banner-quote"><?php echo __('_WELCOME_TO', true); ?> <a href="/">allofor</a>		<span style="font-size:12px;color:#5F5F5F;clear:both;display:inline-block;">"Allofor strives to promote your overall Health awareness keeping privacy as priority"</span>		</h1>            <img src="/img/banner-img.png" alt="" title=""/></section>

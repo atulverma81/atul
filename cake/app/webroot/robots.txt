@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /admin/
+Disallow: /images/
+Allow: /img/
+Sitemap: http://www.ccsorg.com/sitemap.xml

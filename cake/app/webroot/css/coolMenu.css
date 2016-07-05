@@ -1,0 +1,92 @@
+/* Structure
+------------------------------------------*/
+#coolMenu,
+#coolMenu ul {
+	 padding:0px; margin:0px; display:block; display:inline;
+}
+#coolMenu {
+	float: left;
+}
+#coolMenu > li {
+	float: left;
+}
+#coolMenu li a {
+	display: block;
+	float:left;
+			width:161px;
+			height:44px;
+			line-height:44px;
+			text-align:center;
+			background:url(../images/nav-bg.png) no-repeat 0 0;
+			color:#fff;
+			font-size:13px;
+			text-decoration:none;
+			margin-right:-1px;
+}
+#coolMenu ul {
+	position: fixed;
+	display: none;
+	z-index: 999;
+}
+#coolMenu ul li a {
+	width: 80px;
+}
+#coolMenu li:hover ul.noJS {
+	display: block;
+  margin-top:44px; 
+  position:fixed;
+}
+
+
+/* Main menu
+------------------------------------------*/
+#coolMenu {
+	font-family: Arial;
+	font-size: 12px;
+	
+}
+#coolMenu > li > a {
+	color: #fff;
+	font-weight: bold;
+
+}
+#coolMenu > li:hover > a {
+	background:url(../images/nav-bg-act.png) no-repeat 0 0;
+			
+			color:#27324d;
+}
+
+
+/* Submenu
+------------------------------------------*/
+#coolMenu ul {
+	background: #ffffff;
+}
+#coolMenu ul li a {
+	color: black;
+	background: #ffffff;
+		width:150px;
+		height:32px;
+		text-align:left;
+		margin-left:10px;
+		
+}
+#coolMenu ul li:hover a {
+	background: #f6f6f6;
+  color: #000; 
+}
+
+
+  /* sub-menus*/
+        #coolMenu ul { padding:0px; margin:0px; display:block; display:inline;}
+        #coolMenu li ul { display:none;min-width:161px; }
+        #coolMenu li:hover ul { display:block;}
+        #coolMenu li ul li{ display:block; margin:5px 0 0 0px; padding: 0 0 5px 0px;   list-style-type:none; }
+        #coolMenu li ul li:first-child { border-top: none; }
+        #coolMenu li ul li:hover a { background:#396FC0;}
+        #coolMenu li ul li a { display:block; color:#000; width:87%; background:none; height:auto; line-height:22px }
+        #coolMenu li ul li a:hover { color:#fff; }
+        /* main submenu */
+        #coolMenu #main { left:0px; top:-20px; padding-top:20px; background-color:#7cb7e3; color:#fff; z-index:999;}
+        
+     
